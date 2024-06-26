@@ -16,4 +16,5 @@ The following features have been implemented:
 - Implementing searching through history using up/down arrow keys
 - Implementing cursor movement using left/right arrow keys
 - Cursor moves to start/end of line using Ctrl+A and Ctrl+E
+
 I have tried to keep the shell as close to the bash terminal as possible, so the syntax of these commands are similar to their bash counterparts.
